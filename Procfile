@@ -1,0 +1,1 @@
+web: gunicorn paulos_website:app
